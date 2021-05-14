@@ -1,4 +1,2 @@
-spring:
-  profiles: dev
 suho:
   value: dev-test-value second change~
