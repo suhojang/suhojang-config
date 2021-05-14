@@ -1,0 +1,10 @@
+spring:
+  profiles: dev
+suho:
+  value: dev-test-value second change~
+
+---
+spring:
+  profile: prod
+suho:
+  value: prod-test-value
