@@ -1,10 +1,10 @@
 spring:
   profiles: dev
 suho:
-  value: dev-test-value second change~
+  value: config-dev-value
 
 ---
 spring:
   profile: prod
 suho:
-  value: prod-test-value
+  value: config-prod-value
