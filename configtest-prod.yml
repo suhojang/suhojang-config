@@ -1,2 +1,4 @@
+spring:
+  profile: prod
 suho:
   value: prod-test-value
